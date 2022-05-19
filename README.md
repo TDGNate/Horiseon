@@ -1,5 +1,9 @@
 # horiseon
 
+<<<<<<< HEAD
+=======
+- Updated website title to 'Horiseon'
+>>>>>>> 068be74c713ae9048b162a6f8709de4ada59d25a
 - Added text/css to "type" attribute for CSS Link
 - I refactored most of the div tags to be more semantic using existing HTML tags (header, nav, section, article, and footer)
 - Consolidating CSS Selectors and updating classes in index.html
