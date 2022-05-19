@@ -1,10 +1,10 @@
 # horiseon
 
-- Changed website title to Horiseon
-- Added text/css to "type" attribute for linking CSS
-- I refactored most of the divs to be more samantic using existing HTML tags (header, nav, section, article, and footer)
+- Updated website title to 'Horiseon'
+- Added text/css to "type" attribute for CSS Link
+- I refactored most of the div tags to be more semantic using existing HTML tags (header, nav, section, article, and footer)
 - Consolidating CSS Selectors and updating classes in index.html
-- Added alt attributes to image tags
+- Added alt attributes to image tags for visually impaired users
 - Changed IDs for the sections, then reconnected the ID to the hrefs for the Nav Links
 - Added comments to HTML file and CSS file
 
