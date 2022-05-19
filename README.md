@@ -14,7 +14,7 @@ Repo: [repo]
 
 Deployed URL: [hosted-website]
 
-[](blob:https%3A//localhost%3A86/03e41166-dfff-43b9-ba31-ddc63efffe92)
+<img alt="Finished img" src="./assets/images/Finished-Horiseon.png">
 
 [repo]: https://github.com/TDGNate/horiseon
 [hosted-website]: https://tdgnate.github.io/horiseon/
